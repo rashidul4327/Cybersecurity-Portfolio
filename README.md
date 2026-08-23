@@ -8,7 +8,7 @@ Aspiring SOC Analyst building practical skills through hands-on labs and structu
 
 | Certification | Platform | Status |
 |---|---|---|
-| Google Cybersecurity Professional Certificate | Coursera | In Progress (Course 4/8) |
+| Google Cybersecurity Professional Certificate | Coursera | In Progress |
 | SOC Level 1 | TryHackMe | In Progress |
 | CompTIA Security+ | Self-Study | Planned |
 
