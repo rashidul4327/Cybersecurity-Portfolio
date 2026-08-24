@@ -28,7 +28,9 @@ Aspiring SOC Analyst building practical skills through hands-on labs and structu
 ---
 
 ## Technical Skills
-Linux | SIEM | Network Security | Log Analysis | File Permission Management
+Linux | Bash | SIEM | Network Security | Log Analysis | 
+File Permission Management | NIST CSF | CIA Triad | 
+TCP/IP | Security Auditing | Incident Response | Risk Management
 
 ---
 
