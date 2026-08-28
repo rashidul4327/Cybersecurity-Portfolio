@@ -36,4 +36,4 @@ TCP/IP | Security Auditing | Incident Response | Risk Management
 
 ## Contact
 - LinkedIn: Rashidul Islam (https://www.linkedin.com/in/rashidul-islam27/)
-- Location: Dhaka, Bangladesh
+- Location: Mirpur13, Dhaka, Bangladesh
