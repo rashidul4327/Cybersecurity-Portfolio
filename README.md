@@ -41,4 +41,4 @@ Vulnerability Assessment | Threat Analysis
 
 ## Contact
 - 🔗 LinkedIn: [Rashidul Islam](https://www.linkedin.com/in/rashidul-islam27/)
-- 📍 Location: Mirpur-13, Dhaka, Bangladesh
+- 📍 Location: Dhaka, Bangladesh
