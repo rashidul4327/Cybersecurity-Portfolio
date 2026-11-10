@@ -30,4 +30,31 @@ Cybersecurity learner building practical skills through hands-on labs and struct
 
 ### IBM Cybersecurity Analyst Professional Certificate
 - ✅ Course 1 — Introduction to Cybersecurity Careers
-- ✅ Course 2 —
+- ✅ Course 2 — Introduction to Cybersecurity Essentials
+- 🔄 Course 3 — Introduction to Cybersecurity Tools & Cyberattacks *(Next)*
+
+---
+
+## Portfolio Activities
+
+| # | Activity | Skills Applied | Course | File |
+|---|---|---|---|---|
+| 01 | Linux File Permission Management | chmod, ls -la, user/group permissions | Google · Course 4 | [📄 View](./File%20permissions%20in%20Linux.pdf) |
+| 02 | Apply Filters to SQL Queries | SQL, WHERE, AND, OR, NOT, Log Filtering | Google · Course 4 | [📄 View](./Apply%20filters%20to%20SQL%20queries.pdf) |
+| 03 | Vulnerability Assessment Report | NIST SP 800-30, Risk Assessment, Threat Analysis, Remediation Strategy | Google · Course 5 | [📄 View](./Vulnerability%20Assessment%20Report%20.pdf) |
+
+---
+
+## Technical Skills
+
+Linux | Bash | SQL | Python | SIEM | Network Security | Log Analysis |
+File Permission Management | NIST CSF | NIST SP 800-30 | CIA Triad |
+TCP/IP | Security Auditing | Incident Response | Risk Management |
+Vulnerability Assessment | Threat Analysis
+
+---
+
+## Contact
+
+- 🔗 LinkedIn: [Rashidul Islam](https://www.linkedin.com/in/rashidul-islam27/)
+- 📍 Location: Dhaka, Bangladesh
